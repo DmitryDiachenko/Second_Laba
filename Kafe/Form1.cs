@@ -19,11 +19,16 @@ namespace Kafe
 
 
         private string Zam = "";
-		private string Two_commit = "";
+		private string Two_commit = "Hello World!";
         // Формирование строки заказов
         public string Zamov(string c_box)
         {
             return Zam += c_box + "\n";
+        }
+		
+		public string Commit(string c_box)
+        {
+            return c_box;
         }
 
         //Вывод заказов
