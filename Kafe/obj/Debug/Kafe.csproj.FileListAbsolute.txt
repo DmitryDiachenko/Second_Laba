@@ -1,0 +1,9 @@
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\bin\Debug\Kafe.exe.config
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\bin\Debug\Kafe.exe
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\bin\Debug\Kafe.pdb
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\obj\Debug\Kafe.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\obj\Debug\Kafe.Form1.resources
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\obj\Debug\Kafe.Properties.Resources.resources
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\obj\Debug\Kafe.csproj.GenerateResource.Cache
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\obj\Debug\Kafe.exe
+C:\Users\Дмитрий ПК\Desktop\Помощь Работа\1\Kafe\Kafe\obj\Debug\Kafe.pdb
