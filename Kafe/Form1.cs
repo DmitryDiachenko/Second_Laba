@@ -19,6 +19,7 @@ namespace Kafe
 
 
         private string Zam = "";
+		private string Two_commit = "";
         // Формирование строки заказов
         public string Zamov(string c_box)
         {
